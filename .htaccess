@@ -1,0 +1,4 @@
+<Files "/home/mihsedun/public_html/index.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
